@@ -1,4 +1,5 @@
 ---
+layout: template
 createdBy: Gayathri
 createdOn: 23-May-2021
 createdFor: TWT Doc-As-Code Training
