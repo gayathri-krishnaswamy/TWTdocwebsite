@@ -6,6 +6,7 @@ createdFor: TWT Doc-As-Code Training
 topic: TechnicalWriting
 ---
 
+Hello Gayathri, from Surya!
 
 This page on {{page.topic}} is created by {{page.createdBy}} on {{page.createdOn}} for {{page.createdFor}}
 
