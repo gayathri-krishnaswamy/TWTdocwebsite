@@ -9,6 +9,8 @@ topic: TechnicalWriting
 
 This page on {{page.topic}} is created by {{page.createdBy}} on {{page.createdOn}} for {{page.createdFor}}
 
+{% include footer.txt %}
+
 What Does a Technical Writer Do?
 Simply put, technical writers explain things. We take complicated concepts and break them down into easy-to-understand pieces. We’re also skilled at organizing information so it flows logically. With these skills, a technical writer is often responsible for many kinds of writing: manuals, online Help systems, or even video tutorials.
 
