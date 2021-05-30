@@ -1,9 +1,9 @@
-#Formatting and Language
+# Formatting and Language
 
 Formatting and appropriate language are the basic design elements of all technical documents.  A format that shows a hierarchical structure and a coordinate structure of information leads the reader through the text.  Using appropriate language is significant in providing the reader with a thorough understanding of the purpose of the documents, how the document relates to the reader’s needs, and what action is expected of the reader.
 
-#Academic Writing versus Technical Writing
+# Academic Writing versus Technical Writing
 The definite purpose, strict format, and use of appropriate language in technical writing define the differences between technical writing and academic writing.  The academic writer’s purpose may be to write an assignment, a story, a letter, etc.. These works may or may not have a reader. However, technical writing always has a definite purpose and will always have a reader.  Regardless of the number of the intended readers of a document who may or may not read the document, the document will be read by the primary reader.
 
-#Cultural Communication
+# Cultural Communication
 Technical writers need to be aware of the differences within and between the behaviors, norms, beliefs, and values of specific cultural environments.  According to Edward T. Hall and Mildred Reed Hall, In Understanding Cultural Differences, each culture operates according to its own rules (1990, pp. 3-4).  Hall and Hall add that problems occur when members of one culture apply their rules to another culture (1990, pp. 3-4). To communicate effectively with other cultures, the technical writer needs to not only be aware of rules governing behaviors that can be observed but also of the not-so-obvious rules that govern the norms, beliefs, and values of the people of a culture. The invisible rules of a culture dramatically impact the acceptance of ideas, plans, and strategies.  The Cultural Iceberg illustrates patterns of world communication, showing indicators of Institutional Culture (the obvious behavior of a culture), which can be clearly seen as the tip of the iceberg, and People Culture (the norms, beliefs and values of a culture), which cannot be seen and which are the barriers to successful communication.
