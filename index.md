@@ -37,3 +37,4 @@ Sometimes when I get that blank stare, people ask me why I do what I do. Well, I
 So the next time you’re installing new software on your computer and encounter an error, or you can’t remember how to set up a Microsoft Excel macro, click the Help icon and search the documentation. Someone writes that stuff, and we do it because we want to help.
 
 [Technical_Writing](topics/tech_writing.md)
+[Technical Writer](topics/tech_writer.md)
