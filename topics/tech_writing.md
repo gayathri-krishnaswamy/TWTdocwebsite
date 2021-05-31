@@ -51,5 +51,10 @@ Complete the following steps:
 5. Click **Invite**.
 
 
+{% for item in site.data.titanic %}
+-  {{item.Name}}, {{item.Age}}
+{% endfor %}
+
+
 
 
